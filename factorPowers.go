@@ -1,3 +1,10 @@
+/*
+ =============================================
+ Author:      Aloyts
+ Create date: 2018 August 06
+ Description: Factoring powers of 2
+ =============================================
+*/
 package main
 
 import ("fmt")
