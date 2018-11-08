@@ -1,1 +1,1 @@
-# powerOf2.py
+# powerOf2
